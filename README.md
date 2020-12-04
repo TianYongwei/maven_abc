@@ -1,2 +1,1 @@
-# JavaTemplate
-Java 项目模版
+# maven_abc
